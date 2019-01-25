@@ -1,0 +1,2 @@
+# sujin
+Learning note
