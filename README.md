@@ -3,9 +3,9 @@
 记录学习和生活
 
 
-### BEC
+### Markdown格式说明
 
-Bose Einstein Condensation
+Markdown中常用的格式
 
 ```markdown
 Syntax highlighted code block
