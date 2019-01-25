@@ -1,12 +1,11 @@
 ## Learning Note
 
-You can use the [editor on GitHub](https://github.com/Physics403/sujin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+记录学习和生活
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### BEC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bose Einstein Condensation
 
 ```markdown
 Syntax highlighted code block
