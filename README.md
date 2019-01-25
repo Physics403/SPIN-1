@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learning Note
 
 You can use the [editor on GitHub](https://github.com/Physics403/sujin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
